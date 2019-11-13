@@ -27,4 +27,4 @@ SQL
 
 ActiveRecord::Base.connection.execute(sql)
 
-require_relative "../artist.rb"
+require_relative "../lib/artist.rb"
