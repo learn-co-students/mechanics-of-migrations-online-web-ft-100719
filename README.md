@@ -4,7 +4,7 @@
 
 1. Create, connect to, and manipulate a SQLite database using ActiveRecord.
 
-## Setup
+## Setupcd
 
 We're going to use the `activerecord` gem to create a mapping between our
 database and model. Clone down this lesson and code-along to get to the
